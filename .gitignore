@@ -1,0 +1,16 @@
+# Logs
+*.log
+
+# Local configuration
+/opencode.jsonc
+
+# Environment variables
+.env
+.env.*
+*.env
+
+# Build output
+/build/
+
+# Downloaded dependencies
+/libs/

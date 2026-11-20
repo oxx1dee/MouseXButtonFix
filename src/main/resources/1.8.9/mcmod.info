@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "mousexbuttonfix",
+    "name": "Mouse XButton Fix",
+    "description": "Fixes LWJGL delivering a press of the first side mouse button (Mouse4) as the second one (Mouse5) while Shift, Ctrl, Alt or another mouse button is held. This is what makes Shift+Mouse4 trigger whatever Mouse5 is bound to, for example Toggle Perspective.",
+    "version": "1.0.0",
+    "mcversion": "1.8.9",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Mouse XButton Fix"],
+    "credits": "Fixes an LWJGL 2 bug in WindowsDisplay's WM_XBUTTONDOWN handling.",
+    "logoFile": "",
+    "screenshots": [],
+    "parent": "",
+    "dependencies": []
+  }
+]
