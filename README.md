@@ -14,7 +14,7 @@ If you bind "toggle perspective" to one of the side mouse buttons (mouse4 or mou
 
 On 1.8.9, also install the "Toggle Perspective Fixed" mod (by ArchUsr64) for proper functionality.
 
-https://github.com/ArchUsr64/toggle\_perspective\_fixed
+https://github.com/ArchUsr64/toggle_perspective_fixed
 
 https://modrinth.com/mod/toggle-perspective-fix
 
@@ -42,7 +42,7 @@ RU:
 
 На 1.8.9 для корректной работы так же установите мод "Toggle Perspective Fixed" (by ArchUsr64)
 
-https://github.com/ArchUsr64/toggle\_perspective\_fixed
+https://github.com/ArchUsr64/toggle_perspective_fixed
 
 https://modrinth.com/mod/toggle-perspective-fix
 
